@@ -1,0 +1,14 @@
+C:\Users\Flawn\Documents\Handson\bin\Debug\net9.0\Handson.exe
+C:\Users\Flawn\Documents\Handson\bin\Debug\net9.0\Handson.deps.json
+C:\Users\Flawn\Documents\Handson\bin\Debug\net9.0\Handson.runtimeconfig.json
+C:\Users\Flawn\Documents\Handson\bin\Debug\net9.0\Handson.dll
+C:\Users\Flawn\Documents\Handson\bin\Debug\net9.0\Handson.pdb
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\Handson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\Handson.AssemblyInfoInputs.cache
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\Handson.AssemblyInfo.cs
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\Handson.csproj.CoreCompileInputs.cache
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\Handson.dll
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\refint\Handson.dll
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\Handson.pdb
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\Handson.genruntimeconfig.cache
+C:\Users\Flawn\Documents\Handson\obj\Debug\net9.0\ref\Handson.dll
